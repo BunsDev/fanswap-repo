@@ -28,7 +28,7 @@ Being a fan of Fanton Network FanSwap was born.
 
 
 ### 📺 Video Demo
-[FanSwap Demo](https://youtu.be/Am-Hkb8npG8)
+[FanSwap Demo](https://youtu.be/ovYwGvLMatE)
 
 ### ☄️ What's next?
 - More features will be introduced, such as farming, staking, and limit orders to make FanSwap more accessible to everyone and a common destination for everyone's needs.
