@@ -35,11 +35,11 @@ Being a fan of Fanton Network FanSwap was born.
 - Creating a fully community-driven protocol in which the community votes on all protocol-related decisions.
 
 
-### 💪 Deployed Addresses (Fantom Testnet)
-- Factory: [0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f](https://testnet.ftmscan.com/address/0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f)
-- Router: [0x90D4e9eB792602AA7A7506b477B878307C35e24A](https://testnet.ftmscan.com/address/0x90d4e9eb792602aa7a7506b477b878307c35e24a)
-- WFTM Address : [0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d](https://testnet.ftmscan.com/address/0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d)
-- Multicall contract Address : [0x3221CE4Ade9a9564b34992a6d9Dd35E38D3884C9](https://testnet.ftmscan.com/address/0x3221CE4Ade9a9564b34992a6d9Dd35E38D3884C9)
+### 💪 Deployed Smart Contract Addresses (Fantom Testnet)
+- Factory Contract: [0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f](https://testnet.ftmscan.com/address/0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f)
+- Router Contract: [0x90D4e9eB792602AA7A7506b477B878307C35e24A](https://testnet.ftmscan.com/address/0x90d4e9eb792602aa7a7506b477b878307c35e24a)
+- WFTM Contract: [0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d](https://testnet.ftmscan.com/address/0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d)
+- Multicall Contract: [0x3221CE4Ade9a9564b34992a6d9Dd35E38D3884C9](https://testnet.ftmscan.com/address/0x3221CE4Ade9a9564b34992a6d9Dd35E38D3884C9)
 
 
 ### 🚫 License
